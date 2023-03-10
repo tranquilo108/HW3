@@ -62,3 +62,8 @@ label {
     font-size: 25px;
     font-weight: 600;
 }
+#ghbdtn {
+    padding-top: 20%;
+    color: white;
+    font-size: 500%;
+}
